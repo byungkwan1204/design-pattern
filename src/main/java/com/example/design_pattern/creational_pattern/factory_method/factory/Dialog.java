@@ -1,6 +1,6 @@
-package com.example.design_pattern.behavioral_pattern.factory_method.factory;
+package com.example.design_pattern.creational_pattern.factory_method.factory;
 
-import com.example.design_pattern.behavioral_pattern.factory_method.buttons.Button;
+import com.example.design_pattern.creational_pattern.factory_method.buttons.Button;
 
 /**
  * Base factory class. Note that "factory" is merely a role for the class. It

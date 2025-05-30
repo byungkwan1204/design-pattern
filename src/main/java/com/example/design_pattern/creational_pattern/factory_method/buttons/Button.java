@@ -1,4 +1,4 @@
-package com.example.design_pattern.behavioral_pattern.factory_method.buttons;
+package com.example.design_pattern.creational_pattern.factory_method.buttons;
 
 /**
  * Common interface for all buttons
